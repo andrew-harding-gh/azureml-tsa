@@ -1,0 +1,7 @@
+gensim
+keras
+pandas
+jupyterlab
+
+azureml
+azureml-defaults
